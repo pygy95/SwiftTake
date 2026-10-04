@@ -1,0 +1,99 @@
+IMAGE03.QTK|vintage-sdr|caa0462d9537f846|73ms
+IMAGE03.QTK|enhanced-sdr|60543b46a89b0ed5|87ms
+IMAGE03.QTK|vintage-hdr|5116f24157e5623d|45ms
+IMAGE03.QTK|enhanced-hdr|91101615d1e203f7|87ms
+IMAGE03.QTK|CHECK enhanced changes HDR|ok|-
+IMAGE03.QTK|CHECK HDR changes enhanced|ok|-
+IMAGE03.QTK|CHECK HDR changes vintage|ok|-
+neptune.qtk|vintage-sdr|529ad3758845aa8b|42ms
+neptune.qtk|enhanced-sdr|8e021bb157e8b759|86ms
+neptune.qtk|vintage-hdr|530673c1bc557faa|43ms
+neptune.qtk|enhanced-hdr|aada96a866e66e67|87ms
+neptune.qtk|CHECK enhanced changes HDR|ok|-
+neptune.qtk|CHECK HDR changes enhanced|ok|-
+neptune.qtk|CHECK HDR changes vintage|ok|-
+venus.qtk|vintage-sdr|529ad3758845aa8b|42ms
+venus.qtk|enhanced-sdr|8e021bb157e8b759|85ms
+venus.qtk|vintage-hdr|530673c1bc557faa|43ms
+venus.qtk|enhanced-hdr|aada96a866e66e67|86ms
+venus.qtk|CHECK enhanced changes HDR|ok|-
+venus.qtk|CHECK HDR changes enhanced|ok|-
+venus.qtk|CHECK HDR changes vintage|ok|-
+mars.qtk|vintage-sdr|529ad3758845aa8b|42ms
+mars.qtk|enhanced-sdr|8e021bb157e8b759|84ms
+mars.qtk|vintage-hdr|530673c1bc557faa|43ms
+mars.qtk|enhanced-hdr|aada96a866e66e67|85ms
+mars.qtk|CHECK enhanced changes HDR|ok|-
+mars.qtk|CHECK HDR changes enhanced|ok|-
+mars.qtk|CHECK HDR changes vintage|ok|-
+fuzz-qt100-hq-a|vintage-sdr|8a5726c30bed8c5c|42ms
+fuzz-qt100-hq-a|enhanced-sdr|5cb49733f8cd5290|84ms
+fuzz-qt100-hq-a|vintage-hdr|0b5e52c4bea70f4e|46ms
+fuzz-qt100-hq-a|enhanced-hdr|0bfde8ae2a58dede|87ms
+fuzz-qt100-hq-a|CHECK enhanced changes HDR|ok|-
+fuzz-qt100-hq-a|CHECK HDR changes enhanced|ok|-
+fuzz-qt100-hq-a|CHECK HDR changes vintage|ok|-
+fuzz-qt100-hq-b|vintage-sdr|3306f9f3199df3d9|41ms
+fuzz-qt100-hq-b|enhanced-sdr|02297da17c061119|82ms
+fuzz-qt100-hq-b|vintage-hdr|a91c3bc4d74eac27|47ms
+fuzz-qt100-hq-b|enhanced-hdr|29515f2ee5975154|86ms
+fuzz-qt100-hq-b|CHECK enhanced changes HDR|ok|-
+fuzz-qt100-hq-b|CHECK HDR changes enhanced|ok|-
+fuzz-qt100-hq-b|CHECK HDR changes vintage|ok|-
+fuzz-qt100-sq|vintage-sdr|95b822775820bb01|11ms
+fuzz-qt100-sq|enhanced-sdr|088ce53217a8ab0d|21ms
+fuzz-qt100-sq|vintage-hdr|4438ded06d912cc8|12ms
+fuzz-qt100-sq|enhanced-hdr|dff9f18fbf68a946|22ms
+fuzz-qt100-sq|CHECK enhanced changes HDR|ok|-
+fuzz-qt100-sq|CHECK HDR changes enhanced|ok|-
+fuzz-qt100-sq|CHECK HDR changes vintage|ok|-
+fuzz-qt100-o738|vintage-sdr|2a765a6f9a6be0be|42ms
+fuzz-qt100-o738|enhanced-sdr|635e52e902ac4c9b|85ms
+fuzz-qt100-o738|vintage-hdr|cc51d70c58c85d49|45ms
+fuzz-qt100-o738|enhanced-hdr|64a100661c46bfde|88ms
+fuzz-qt100-o738|CHECK enhanced changes HDR|ok|-
+fuzz-qt100-o738|CHECK HDR changes enhanced|ok|-
+fuzz-qt100-o738|CHECK HDR changes vintage|ok|-
+fuzz-qt150-hq-a|vintage-sdr|48d539eabf957761|35ms
+fuzz-qt150-hq-a|enhanced-sdr|01239bca75b07bef|70ms
+fuzz-qt150-hq-a|vintage-hdr|2cec4aaa41631219|38ms
+fuzz-qt150-hq-a|enhanced-hdr|2dbcfdd21596b62b|74ms
+fuzz-qt150-hq-a|CHECK enhanced changes HDR|ok|-
+fuzz-qt150-hq-a|CHECK HDR changes enhanced|ok|-
+fuzz-qt150-hq-a|CHECK HDR changes vintage|ok|-
+fuzz-qt150-hq-b|vintage-sdr|acfdbd410c8f1b5d|33ms
+fuzz-qt150-hq-b|enhanced-sdr|4ef84f5a61804951|68ms
+fuzz-qt150-hq-b|vintage-hdr|21c11392bfdcfc7b|36ms
+fuzz-qt150-hq-b|enhanced-hdr|b8ae9bdcea602676|73ms
+fuzz-qt150-hq-b|CHECK enhanced changes HDR|ok|-
+fuzz-qt150-hq-b|CHECK HDR changes enhanced|ok|-
+fuzz-qt150-hq-b|CHECK HDR changes vintage|ok|-
+fuzz-qt150-sq|vintage-sdr|a708e1110e2ef1f2|9ms
+fuzz-qt150-sq|enhanced-sdr|a17ea1e09c8ecaea|17ms
+fuzz-qt150-sq|vintage-hdr|f716c5a2b8534e84|10ms
+fuzz-qt150-sq|enhanced-hdr|8eed44ad2c6794f6|18ms
+fuzz-qt150-sq|CHECK enhanced changes HDR|ok|-
+fuzz-qt150-sq|CHECK HDR changes enhanced|ok|-
+fuzz-qt150-sq|CHECK HDR changes vintage|ok|-
+fuzz-qt150-o738|vintage-sdr|7e01cbf92d78f52c|35ms
+fuzz-qt150-o738|enhanced-sdr|1aea521a29bbb7fc|71ms
+fuzz-qt150-o738|vintage-hdr|0e9c2100531ede4d|38ms
+fuzz-qt150-o738|enhanced-hdr|2597623659bdb332|75ms
+fuzz-qt150-o738|CHECK enhanced changes HDR|ok|-
+fuzz-qt150-o738|CHECK HDR changes enhanced|ok|-
+fuzz-qt150-o738|CHECK HDR changes vintage|ok|-
+QuickTake200_19960509_141432.tiff|finished-vintage|e5dd8c65d935028b|0ms
+QuickTake200_19960509_141432.tiff|finished-enhanced|7f230e3aef5e1bec|8ms
+QuickTake200_19960509_141432.tiff|finished-enhanced-hdr|0211338b5185d22a|12ms
+QuickTake200_19960509_141432.tiff|CHECK enhanced changes finished|ok|-
+QuickTake200_19960509_141432.tiff|CHECK HDR changes finished|ok|-
+QuickTake200_19960509_151444.tiff|finished-vintage|3b13dc294d10d1d1|0ms
+QuickTake200_19960509_151444.tiff|finished-enhanced|b56a9973de6940cb|8ms
+QuickTake200_19960509_151444.tiff|finished-enhanced-hdr|5d3e5644be444ce9|12ms
+QuickTake200_19960509_151444.tiff|CHECK enhanced changes finished|ok|-
+QuickTake200_19960509_151444.tiff|CHECK HDR changes finished|ok|-
+QuickTake200_19960509_152224.tiff|finished-vintage|8c0831c5552ab7fe|0ms
+QuickTake200_19960509_152224.tiff|finished-enhanced|71278442f4e6c2c2|7ms
+QuickTake200_19960509_152224.tiff|finished-enhanced-hdr|f09e169c55d27652|11ms
+QuickTake200_19960509_152224.tiff|CHECK enhanced changes finished|ok|-
+QuickTake200_19960509_152224.tiff|CHECK HDR changes finished|ok|-

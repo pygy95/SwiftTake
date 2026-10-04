@@ -1,0 +1,1 @@
+QuickTake Panorama with WideTake: n=4 order=3,2,1,0 step=179 slope=4 strip=1017x629 overlap=0.627 full=false

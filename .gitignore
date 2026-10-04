@@ -1,0 +1,26 @@
+# Local settings and hidden workspace state
+.*
+!.gitignore
+!.github/
+
+# Xcode and build products
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.app/
+*.xcarchive/
+*.dSYM/
+
+# Private backups, reference material and external test corpora
+*Backup*/
+*Archive*/
+_legacy_serial_GPLv3/
+Research/QTVR/
+
+# Locally compiled harnesses
+Tools/QTVRHarness/qtvrharness
+Tools/DecoderHarness/harness
+Tools/StitchHarness/stitchharness
+Tools/ImmersiveHarness/immersiveharness
+__pycache__/

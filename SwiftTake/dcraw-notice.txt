@@ -1,0 +1,44 @@
+dcraw reference and attribution
+
+SwiftTake's QuickTake 100/150 decompressors are Swift adaptations of
+Dave Coffin's quicktake_100_load_raw and kodak_radc_load_raw routines.
+
+The implementation was compared with dcraw 9.28, revision 1.478 (2018-06-01):
+https://raw.githubusercontent.com/ncruces/dcraw/master/dcraw.c
+SHA-256: d18d9e43a096eea04eee2148e53068f8fa45ce95395d97128b1aa37b477eab43
+
+The original upstream revision used during development is not yet established.
+The matched QuickTake routines are outside the compared source's marked
+restricted Foveon section. The notice below is reproduced from that source;
+it does not license unrelated SwiftTake assets or other third-party materials.
+
+SwiftTake changes include Swift data types, flat buffers, bounds checks and
+truncated-payload handling. Its rendering and enhancement stages have also
+been developed separately from the original dcraw rendering pipeline.
+
+Upstream notice:
+
+/*
+   dcraw.c -- Dave Coffin's raw photo decoder
+   Copyright 1997-2018 by Dave Coffin, dcoffin a cybercom o net
+
+   This is a command-line ANSI C program to convert raw photos from
+   any digital camera on any computer running any operating system.
+
+   No license is required to download and use dcraw.c.  However,
+   to lawfully redistribute dcraw, you must either (a) offer, at
+   no extra charge, full source code* for all executable files
+   containing RESTRICTED functions, (b) distribute this code under
+   the GPL Version 2 or later, (c) remove all RESTRICTED functions,
+   re-implement them, or copy them from an earlier, unrestricted
+   Revision of dcraw.c, or (d) purchase a license from the author.
+
+   The functions that process Foveon images have been RESTRICTED
+   since Revision 1.237.  All other code remains free for all uses.
+
+   *If you have not modified dcraw.c in any way, a link to my
+   homepage qualifies as "full source code".
+
+   $Revision: 1.478 $
+   $Date: 2018/06/01 20:36:25 $
+ */
