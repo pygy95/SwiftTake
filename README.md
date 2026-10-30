@@ -4,7 +4,7 @@ A native Mac companion for Apple QuickTake cameras. Browse and import photos,
 keep original archives, develop images with Vintage or NewTake rendering, and
 combine overlapping shots into panoramas you can explore and share.
 
-Requires **macOS 27 or later on Apple silicon**. The application is written in
+Requires **macOS 26 or later on Apple silicon**. The application is written in
 Swift with SwiftUI and AppKit, with no Swift package dependencies.
 
 ## Cameras and features
