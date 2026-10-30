@@ -58,7 +58,7 @@ If the shell selects Command Line Tools, set `DEVELOPER_DIR` to the
 installed Xcode's `Contents/Developer` directory for the command. Do not change
 project settings to compensate for selecting the wrong toolchain.
 
-The app requires macOS 27 or later on Apple silicon (M-series Macs). Both Debug
+The app requires macOS 26 or later on Apple silicon (M-series Macs). Both Debug
 and Release explicitly build only `arm64`; Intel builds are not supported. Xcode
 generates the minimum-system metadata from the deployment target.
 The shared scheme's Run action uses Release; Test and Analyze use Debug. There is no dedicated XCTest target.
