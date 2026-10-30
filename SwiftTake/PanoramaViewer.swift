@@ -410,7 +410,9 @@ private struct PanoramaModeSegments: NSViewRepresentable {
         control.setAccessibilityLabel("Panorama view")
         let glass = NSGlassEffectView()
         glass.cornerRadius = 18
-        glass.effectIsInteractive = true
+        if #available(macOS 27.0, *) {
+            glass.effectIsInteractive = true
+        }
         glass.contentView = control
         return glass
     }
